@@ -4,7 +4,6 @@ This is an interactive web application that allows users to take a version of th
 
 
 
-*(Note: Replace the image URL above with a real screenshot of your application)*
 
 ---
 
@@ -25,7 +24,6 @@ This is an interactive web application that allows users to take a version of th
 
 - **Frontend**: [React](https://reactjs.org/) with [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **AI Integration**: [Google Gemini API (`@google/genai`)](https://ai.google.dev/)
 - **PDF Generation**: [jsPDF](https://github.com/parallax/jsPDF) & [html2canvas](https://html2canvas.hertzen.com/)
 
 This project uses a modern setup with ES modules loaded directly in the browser via CDN, eliminating the need for a local `node_modules` folder for dependencies.
