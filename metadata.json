@@ -1,0 +1,6 @@
+{
+  "name": "Millon Personality Assessment",
+  "description": "An interactive web application to take the Millon Clinical Multiaxial Inventory (MCMI) test. The app scores the test, collects user information, and generates a detailed personality analysis report using the Gemini API, which can be downloaded as a PDF.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
